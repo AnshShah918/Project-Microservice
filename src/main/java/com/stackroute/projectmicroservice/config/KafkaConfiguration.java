@@ -62,6 +62,8 @@ public class KafkaConfiguration {
         ConcurrentKafkaListenerContainerFactory<String, Project> factory = new ConcurrentKafkaListenerContainerFactory<>();
         factory.setConsumerFactory(projectConsumerFactory());
         return factory;
-    }   
+    }
+    
+    
 
 }
