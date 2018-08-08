@@ -1,4 +1,4 @@
-package com.stackroute.kafka.projectmicroservice.projectMicroservice;
+package com.stackroute.projectmicroservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
